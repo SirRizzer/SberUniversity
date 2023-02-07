@@ -11,7 +11,6 @@
 - **tensorboard**
 - **torch**
 - **tqdm**
-- **SegmenterModel**
 - **carvana_dataset**
 - **seaborn**
 
